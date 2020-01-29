@@ -1,10 +1,15 @@
 # Demo-Login-NodeJS-NuxtJS
 
-```
-NodeJS
+Server
+
+# NodeJS
 - Express
 - JWT
 - Passport
 
 Connect MySQL
-```
+
+
+# Client
+- NuxtJS
+
