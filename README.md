@@ -1,8 +1,7 @@
 # Demo-Login-NodeJS-NuxtJS
 
-Server
-
-# NodeJS
+# Server
+- NodeJS
 - Express
 - JWT
 - Passport
